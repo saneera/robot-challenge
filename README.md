@@ -94,7 +94,7 @@ I have built the application via spring boot and expose rest endpoint to test
 java -jar build/libs/robot-challenge-0.0.1-SNAPSHOT.jar
 ```
 
-You can try it using ![swagger url](http://localhost:8080/robot-challenge/swagger-ui/index.html) . Here are some examples for testing the application:
+You can try it using swagger url(http://localhost:8080/robot-challenge/swagger-ui/index.html) . Here are some examples for testing the application:
 
 ```aidl
 http://localhost:8080/robot-challenge/swagger-ui/index.html
