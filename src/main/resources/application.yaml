@@ -1,0 +1,11 @@
+spring:
+  application:
+    name: robot-challenge
+
+server:
+  servlet:
+    context-path: /${spring.application.name}
+
+table-config:
+  rows: 5
+  columns: 5
