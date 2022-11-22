@@ -96,9 +96,6 @@ java -jar build/libs/robot-challenge-0.0.1-SNAPSHOT.jar
 
 You can try it using swagger url(http://localhost:8080/robot-challenge/swagger-ui/index.html) . Here are some examples for testing the application:
 
-```aidl
-http://localhost:8080/robot-challenge/swagger-ui/index.html
-```
 
 1) request:
 ```json
